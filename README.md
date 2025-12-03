@@ -72,6 +72,3 @@ AI travel buddy that won’t ditch you halfway like your friends.
 - Email: shadabjamadar4@gmail.com  
 
 ---
-
-## 🖥️ GitHub Stats (For Drama)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnbeatableBann&layout=compact)
