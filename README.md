@@ -13,14 +13,35 @@ If it involves multi-agent chaos, LLM pipelines, data workflows, or convincing a
 
 
 ## 🧠 Real Skills (Not Just Buzzwords)  
-**AI & ML:**  
-LLMs, LangGraph, LangChain, Multi-Agent Systems, RAG, CLIP, FAISS, LSTM, CV  
+<p align="left">
 
-**Backend:**  
-FastAPI, Flask, Redis, JWT, Supabase/Appwrite  
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+  
+  <!-- AI / ML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" />
+  
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" />
+  
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
 
-**Other:**  
-Breaking things, fixing them at 3 AM, and pretending it was intentional  
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+
+</p>
+
 
 
 ## 🔥 Project Highlights  
@@ -49,32 +70,18 @@ AI travel buddy that won’t ditch you halfway like your friends.
 - Active **NSS volunteer** — touched grass and helped humans  
 
 
-## 📌 Pinned Projects  
-(Kindly ignore commit timestamps at random times.)
-
-- Curio – AI Co-Teacher  
-- AI Mock Interviewer  
-- Advanced Research Agent  
-- ISL Translator  
-- GuideAI  
-- NL2SQL Agentic Analysis System  
-
-
-## 📬 Find Me Before I Push to Main  
-- LinkedIn: [**Linkedin**](https://www.linkedin.com/in/shadab-jamadar)  
-- GitHub: [**UnbeatableBann**](https://github.com/UnbeatableBann)  
-- Email: [**Mail**](mailto:shadabjamadar4@gmail.com)  
 ## 📬 Find Me Before I Push to Main
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shadab-jamadar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" />
   </a>
   <a href="https://github.com/UnbeatableBann" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" />
   </a>
   <a href="mailto:shadabjamadar4@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="40" />
   </a>
 </p>
+
 
