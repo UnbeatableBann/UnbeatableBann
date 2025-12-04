@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I’m Shadab — I Build AI So You Don’t Have To</h1>
-
+<h1 align="center">👋 Hi, I’m Shadab </h1>
+<h3 align="center">I Build AI So You Don’t Have To</h3>
 I spend an unhealthy amount of time making AI systems do things humans *should* probably do themselves.  
 If it involves multi-agent chaos, LLM pipelines, data workflows, or convincing a model to behave, I’m there.
 
@@ -77,7 +77,7 @@ AI travel buddy that won’t ditch you halfway like your friends.
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" />
   </a>
   <a href="https://github.com/UnbeatableBann" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="40" />
   </a>
   <a href="mailto:shadabjamadar4@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="40" />
