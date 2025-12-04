@@ -3,7 +3,6 @@
 I spend an unhealthy amount of time making AI systems do things humans *should* probably do themselves.  
 If it involves multi-agent chaos, LLM pipelines, data workflows, or convincing a model to behave, I’m there.
 
----
 
 ## 🚀 What I Actually Do  
 - Build AI agents that argue with each other until they agree on an answer  
@@ -12,7 +11,6 @@ If it involves multi-agent chaos, LLM pipelines, data workflows, or convincing a
 - Pretend to “optimise inference cost” while actually rewriting the same code 17 times  
 - Turn vague ideas into real products before anyone realises how complicated they are  
 
----
 
 ## 🧠 Real Skills (Not Just Buzzwords)  
 **AI & ML:**  
@@ -24,7 +22,6 @@ FastAPI, Flask, Redis, JWT, Supabase/Appwrite
 **Other:**  
 Breaking things, fixing them at 3 AM, and pretending it was intentional  
 
----
 
 ## 🔥 Project Highlights  
 
@@ -44,7 +41,6 @@ Because communication shouldn’t depend on luck.
 ### **GuideAI – Tourist Assistant**  
 AI travel buddy that won’t ditch you halfway like your friends.
 
----
 
 ## 🏆 Achievements (Believe It or Not)  
 - **Topper Award** for maintaining a 9.6 GPA  
@@ -52,7 +48,6 @@ AI travel buddy that won’t ditch you halfway like your friends.
 - **AI Intern** — shipped real systems that didn’t crash (most of the time)  
 - Active **NSS volunteer** — touched grass and helped humans  
 
----
 
 ## 📌 Pinned Projects  
 (Kindly ignore commit timestamps at random times.)
@@ -64,11 +59,9 @@ AI travel buddy that won’t ditch you halfway like your friends.
 - GuideAI  
 - NL2SQL Agentic Analysis System  
 
----
 
 ## 📬 Find Me Before I Push to Main  
 - LinkedIn: [*Linkedin*](https://www.linkedin.com/in/shadab-jamadar-aa9b38252/)  
 - GitHub: [**UnbeatableBann**](https://github.com/UnbeatableBann)  
 - Email: shadabjamadar4@gmail.com  
 
----
