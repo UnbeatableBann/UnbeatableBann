@@ -61,7 +61,7 @@ AI travel buddy that won’t ditch you halfway like your friends.
 
 
 ## 📬 Find Me Before I Push to Main  
-- LinkedIn: [*Linkedin*](https://www.linkedin.com/in/shadab-jamadar-aa9b38252/)  
+- LinkedIn: [**Linkedin**](https://www.linkedin.com/in/shadab-jamadar-aa9b38252/)  
 - GitHub: [**UnbeatableBann**](https://github.com/UnbeatableBann)  
-- Email: shadabjamadar4@gmail.com  
+- Email: [**Mail**](shadabjamadar4@gmail.com)  
 
