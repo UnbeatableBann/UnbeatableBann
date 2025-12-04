@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shadab — I Build AI So You Don’t Have To
+<h1 align="center">👋 Hi, I’m Shadab — I Build AI So You Don’t Have To</h1>
 
 I spend an unhealthy amount of time making AI systems do things humans *should* probably do themselves.  
 If it involves multi-agent chaos, LLM pipelines, data workflows, or convincing a model to behave, I’m there.
@@ -64,4 +64,17 @@ AI travel buddy that won’t ditch you halfway like your friends.
 - LinkedIn: [**Linkedin**](https://www.linkedin.com/in/shadab-jamadar)  
 - GitHub: [**UnbeatableBann**](https://github.com/UnbeatableBann)  
 - Email: [**Mail**](mailto:shadabjamadar4@gmail.com)  
+## 📬 Find Me Before I Push to Main
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shadab-jamadar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" />
+  </a>
+  <a href="https://github.com/UnbeatableBann" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40" />
+  </a>
+  <a href="mailto:shadabjamadar4@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" />
+  </a>
+</p>
 
