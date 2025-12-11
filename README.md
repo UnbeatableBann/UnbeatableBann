@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I’m Shadab</h1>
 <h3 align="center">I Build AI So You Don’t Have To</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNwY3Z5dm00bXRrN2l1b3Zqdm1zMzJzMGd3YTZzbGtxbW10d2o0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHqth0hVQoIzS/giphy.gif" width="280" />
-</p>
-
 I spend an unhealthy amount of time making AI systems do things humans *should* probably do themselves.  
 If it involves multi-agent chaos, LLM pipelines, data workflows, or convincing a model to behave, I’m there.
 
