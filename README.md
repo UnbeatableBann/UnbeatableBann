@@ -11,7 +11,7 @@ If it involves multi-agent chaos, LLM pipelines, data workflows, or convincing a
 ## 🚀 What I Actually Do
 
 <ul>
-  <li style="margin-left: 20px;">Build AI agents that argue until they agree</li>
+  <li style="margin-left: 200px;">Build AI agents that argue until they agree</li>
   <li style="margin-left: 20px;">Make LLMs behave like responsible adults</li>
   <li style="margin-left: 20px;">Translate human problems into Python problems</li>
   <li style="margin-left: 20px;">"Optimize inference" by rewriting code 17 times</li>
