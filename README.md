@@ -99,7 +99,7 @@ Travel buddy that actually stays.
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/UnbeatableBann" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="40" />
+    <img src="https://logos-world.net/github-logo/" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:shadabjamadar4@gmail.com" target="_blank">
