@@ -10,20 +10,17 @@ If it involves multi-agent chaos, LLM pipelines, data workflows, or convincing a
 
 ## 🚀 What I Actually Do
 
-<div align="center">
-
 <div style="display:inline-block; text-align:left;">
 
-- Build AI agents that argue until they agree
-- Make LLMs behave like responsible adults
-- Translate human problems into Python problems
-- "Optimize inference" by rewriting code 17 times
-- Turn chaotic ideas into working products before panic sets in
+| |
+|---|
+| • Build AI agents that argue until they agree |
+| • Make LLMs behave like responsible adults |
+| • Translate human problems into Python problems |
+| • "Optimize inference" by rewriting code 17 times |
+| • Turn chaotic ideas into working products before panic sets in |
 
 </div>
-
-</div>
-
 ---
 
 ## 🧠 Skills & Tech Stack  
