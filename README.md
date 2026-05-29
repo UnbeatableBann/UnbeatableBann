@@ -9,13 +9,13 @@ If it involves multi-agent chaos, LLM pipelines, data workflows, or convincing a
 ---
 
 ## 🚀 What I Actually Do  
-<p align="left">
+<ul style="line-height:180%">
   <li>Build AI agents that argue until they agree</li>
   <li>Make LLMs behave like responsible adults</li>
   <li>Translate human problems into Python problems</li>
   <li>"Optimize inference" by rewriting code 17 times</li>
   <li>Turn chaotic ideas into working products before panic sets in</li>
-</p>
+</ul>
 
 ---
 
