@@ -1,13 +1,15 @@
 <h1 align="center">👋 Hi, I’m Shadab Jamadar</h1>
 <h3 align="center">I Build AI So You Can Save Time For Important Things</h3>
 
+<p align="center">
 I spend an unhealthy amount of time making AI systems do things humans *should* probably do themselves.  
 If it involves multi-agent chaos, LLM pipelines, data workflows, or convincing a model to behave, I’m there.
+</p>
 
 ---
 
 ## 🚀 What I Actually Do  
-<p align="center">
+<p align="left">
   • Build AI agents that argue until they agree<br>
   • Make LLMs behave like responsible adults<br>
   • Translate human problems into Python problems<br>
