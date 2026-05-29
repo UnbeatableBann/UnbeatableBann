@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I’m Shadab</h1>
-<h3 align="center">I Build AI So You Don’t Have To</h3>
+<h1 align="center">👋 Hi, I’m Shadab Jamadar</h1>
+<h3 align="center">I Build AI So You Can Save Time For Important Things</h3>
 
 I spend an unhealthy amount of time making AI systems do things humans *should* probably do themselves.  
 If it involves multi-agent chaos, LLM pipelines, data workflows, or convincing a model to behave, I’m there.
@@ -79,16 +79,15 @@ Multi-agent pipeline that researches, fact-checks, and writes faster than groupm
 Real-time sign language → text/speech.  
 No one should be stuck without communication.
 
-### **GuideAI – Tourist Assistant**  
-Travel buddy that actually stays.
+### **LinkedIn Post Automation**  
+LinkedIn buddy help you to grow.
 
 ---
 
 ## 🏆 Achievements  
-- **Topper Award** — maintained 9.6 GPA  
-- **Hackathon Winner** — built an AI system after 0 hours of sleep  
-- **AI Intern** — shipped systems that mostly didn’t crash  
-- **NSS Volunteer** — touched grass willingly  
+- **Topper Award** — maintained 9.6 GPA (Aggregated) 
+- **Hackathon Winner** — built an AI system after 0 hours of sleep (for Google Hackathon, IBM Hackathon)
+- **AI Intern** — shipped systems that mostly didn’t crash
 
 ---
 
