@@ -56,7 +56,7 @@ If it involves multi-agent chaos, LLM pipelines, data workflows, or convincing a
 
 <td align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="40"/><br>
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="40"/><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 </td>
 
