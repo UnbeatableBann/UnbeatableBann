@@ -99,10 +99,10 @@ Travel buddy that actually stays.
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/UnbeatableBann" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="40" />
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:shadabjamadar4@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
 </p>
